@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EA8FDD53-F76E-4B08-AAFE-A9E23FE33746</string>
+	<key>IDESourceControlProjectName</key>
+	<string>myFunSketch</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3D5E9EAC-BCA5-4E1D-8341-9022180C33CC</key>
+		<string>https://github.com/jskinny/videoProjectforFly.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>myFunSketch/myFunSketch.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3D5E9EAC-BCA5-4E1D-8341-9022180C33CC</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jskinny/videoProjectforFly.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3D5E9EAC-BCA5-4E1D-8341-9022180C33CC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3D5E9EAC-BCA5-4E1D-8341-9022180C33CC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>videoProjectforFly</string>
+		</dict>
+	</array>
+</dict>
+</plist>
