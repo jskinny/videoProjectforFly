@@ -25,7 +25,7 @@ void testApp::draw(){
 //--------------------------------------------------------------
 void testApp::keyPressed(int key){
 	switch(key){
-        case 'p':
+        case 'k':
             frameByframe = !frameByframe;
             angerman.setPaused(frameByframe);
             break;
